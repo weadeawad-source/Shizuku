@@ -1,4 +1,4 @@
-# Shizuku
+adb shell /data/app/~~BA6pDaRwYTdj_gY7wDRbdQ==/moe.shizuku.privileged.api-Zvp4tGqT0p-l58GyfEY0TQ==/lib/arm64/libshizuku.so# Shizuku
 
 ## Background
 
